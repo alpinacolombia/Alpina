@@ -19,17 +19,17 @@ SOLO_PRIMER_POST = False
 # LISTA DE URLs A PROCESAR
 URLS_A_PROCESAR = [
     # TIKTOK
-   "https://www.tiktok.com/@alpinacol/video/7545277103156071736",
-"https://www.tiktok.com/@alpinacol/video/7545646001709714744",
-"https://www.tiktok.com/@alpinacol/photo/7546652098490797368",
-"https://www.tiktok.com/@alpinacol/video/7548999291960823096?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-"https://www.tiktok.com/@alpinacol/video/7549343390622862648?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-"https://www.tiktok.com/@alpinacol/video/7550835075697462533?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-"https://www.tiktok.com/@alpinacol/video/7551218859919822086?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-"https://www.tiktok.com/@alpinacol/video/7551949227333635339?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-"https://www.tiktok.com/@alpinacol/video/7553439049340505400?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-"https://www.tiktok.com/@alpinacol/video/7553815390661463308?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-"https://www.tiktok.com/@alpinacol/video/7554549968778825016?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7545277103156071736",
+    "https://www.tiktok.com/@alpinacol/video/7545646001709714744",
+    "https://www.tiktok.com/@alpinacol/photo/7546652098490797368",
+    "https://www.tiktok.com/@alpinacol/video/7548999291960823096?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7549343390622862648?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7550835075697462533?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7551218859919822086?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7551949227333635339?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7553439049340505400?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7553815390661463308?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
+    "https://www.tiktok.com/@alpinacol/video/7554549968778825016?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446"
 ]
 
 # INFORMACIÓN DE CAMPAÑA
@@ -251,6 +251,7 @@ def run_extraction():
 
 if __name__ == "__main__":
     run_extraction()
+
 
 
 
