@@ -18,15 +18,26 @@ SOLO_PRIMER_POST = False
 
 # LISTA DE URLs A PROCESAR
 URLS_A_PROCESAR = [
-    # TIKTOK
-    "https://www.tiktok.com/@alpinacol/video/7545277103156071736",
-    "https://www.tiktok.com/@alpinacol/photo/7546652098490797368",
-    "https://www.tiktok.com/@alpinacol/video/7548999291960823096?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-    "https://www.tiktok.com/@alpinacol/video/7550835075697462533?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-    "https://www.tiktok.com/@alpinacol/video/7551218859919822086?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-    "https://www.tiktok.com/@alpinacol/video/7551949227333635339?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-    "https://www.tiktok.com/@alpinacol/video/7553815390661463308?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446",
-    "https://www.tiktok.com/@alpinacol/video/7554549968778825016?is_from_webapp=1&sender_device=pc&web_id=7530638001644029446"
+    # FACEBOOK
+    "https://www.facebook.com/alpina/posts/pfbid02XxwvieUDHDxJuf3cLzqEVCjWgxsQ3jr5ZrKZVn1acvJWs16UbPcgFnHb2voZBFsKl",
+    "https://www.facebook.com/reel/1131304442293797",
+    "https://www.facebook.com/100064867445065/posts/pfbid0xMewJHeVTCw5ex7K6BQVSPuxbsXUuoYrDqEnrkzFjNoCEzABvCo6s1jKirYZQ8UZl/",
+    "https://www.facebook.com/reel/1478940436772580/",
+    "https://www.facebook.com/100064867445065/posts/pfbid03ykspgBgzr2iNF6gMYLcjP8FPWKP9oxYQURqqFB3WAzRF4pYApDbkPKyQmTMderLl/",
+    "https://www.facebook.com/100064867445065/posts/pfbid0fwLoonieEEaUjE55PCrMESzY4xrd7tmKQHXsGELjzPd5PAbq8bF6GrrUYGxwdJZcl/",
+    "https://www.facebook.com/reel/674886602303456",
+    "https://www.facebook.com/reel/746336894913177/",
+    "https://www.facebook.com/reel/781511371141044/",
+    "https://www.facebook.com/100064867445065/posts/pfbid0gTNjWkumNUnwYaRJGgMxcKsScWj9C4SaqVp9CbVYh5MzZm139tMZYiYpfLMyxeUAl/"
+    # INSTAGRAM
+    "https://www.instagram.com/p/DOyobUeDtwt/?utm_source=ig_web_copy_link&igsh=MXI5cXZieDFlZTdxYQ==",
+    "https://www.instagram.com/reel/DPEjN_7jbox/?utm_source=ig_web_copy_link&igsh=MXVreDlnMmQwN2QyOA==",
+    "https://www.instagram.com/reel/DO9mJAEjXQp/?utm_source=ig_web_copy_link&igsh=Z3VjYjR6a3Zvb2Zt",
+    "https://www.instagram.com/reel/DOrbrmhAT3h/?utm_source=ig_web_copy_link&igsh=ejNyY3QwZTZxZW5x",
+    "https://www.instagram.com/p/DOw8KwRjdcN/?utm_source=ig_web_copy_link&igsh=MWp3MHN2MHVrcDhwdw==",
+    "https://www.instagram.com/reel/DOgcOAtDdTd/?utm_source=ig_web_copy_link&igsh=MXd0dGtnZGk3dDdzbA==",
+    "https://www.instagram.com/reel/DOM00oQDbMn/?igsh=MW4xM29wbjByZTFxbA==",
+    "https://www.instagram.com/reel/DOOxKOyDm9i/?igsh=d2F5c3pmaGR5cXh0"
 ]
 
 # INFORMACIÓN DE CAMPAÑA
@@ -248,6 +259,7 @@ def run_extraction():
 
 if __name__ == "__main__":
     run_extraction()
+
 
 
 
